@@ -1,5 +1,5 @@
 import React from 'react';
-import poster from '../public/megan.jpg';
+import poster from './assets/megan.jpg';
 
 function MovieRow({ rowText }) {
   return (
