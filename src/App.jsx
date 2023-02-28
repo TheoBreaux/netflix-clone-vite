@@ -1,6 +1,6 @@
 import { useState } from 'react'
 // import './App.css';
-import './style.css'
+import './index.css'
 import Header from './Header.jsx';
 import MovieRow from './MovieRow.jsx';
 

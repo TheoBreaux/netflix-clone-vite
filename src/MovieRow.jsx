@@ -12,6 +12,7 @@ function MovieRow({ rowText }) {
         <img src={poster} />
         <img src={poster} />
         <img src={poster} />
+        <img src={poster} />
       </div>
     </div>
   );
