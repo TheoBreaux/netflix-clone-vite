@@ -1,7 +1,6 @@
 import React from 'react';
 import poster from '../public/megan.jpg';
 
-
 function MovieRow({ rowText }) {
   return (
     <div className="row">
